@@ -1,6 +1,6 @@
 {
 "data": {
-    "filtergroup_contract": {
+    "filtergroup_year": {
       "contracts": [{
           "id": "ID001",
           "name": "Almega"
@@ -18,21 +18,104 @@
           "name": "Avtal 4"
         }
       ],
-       "years": [{
-          "year": "2018"
+       "years": ["2018", "2017", "2016", "2015"],
+      "employments": [],
+      "location": {}
+    },
+    "filtergroup_empl": {
+      "contracts": [{
+          "id": "ID001",
+          "name": "Almega"
         },
         {
-          "year": "2017"
+          "id": "ID002",
+          "name": "Omega"
         },
         {
-          "year": "2016"
+          "id": "ID003",
+          "name": "Avtal 3"
         },
         {
-          "year": "2015"
+          "id": "ID004",
+          "name": "Avtal 4"
         }
       ],
-      "employments": {},
+       "years": ["2018", "2017", "2016", "2015"],
+      "employments": [
+        {
+           "id": "ID001",
+          "name": "Förskolelärare"
+        },
+        {
+          "id": "ID002",
+          "name": "Lärarinna"
+        },
+        {
+          "id": "ID003",
+          "name": "Rektor"
+        },
+        {
+          "id": "ID004",
+          "name": "Vikarie"
+        }
+        ],
       "location": {}
+    },
+    "filtergroup_location": {
+      "contracts": [{
+          "id": "ID001",
+          "name": "Almega"
+        },
+        {
+          "id": "ID002",
+          "name": "Omega"
+        },
+        {
+          "id": "ID003",
+          "name": "Avtal 3"
+        },
+        {
+          "id": "ID004",
+          "name": "Avtal 4"
+        }
+      ],
+       "years": ["2018", "2017", "2016", "2015"],
+      "employments": [
+        {
+           "id": "ID001",
+          "name": "Förskolelärare"
+        },
+        {
+          "id": "ID002",
+          "name": "Lärarinna"
+        },
+        {
+          "id": "ID003",
+          "name": "Rektor"
+        },
+        {
+          "id": "ID004",
+          "name": "Vikarie"
+        }
+        ],
+      "location": [
+        {
+           "id": "ID001",
+          "name": "Avesta"
+        },
+        {
+          "id": "ID002",
+          "name": "Arboga"
+        },
+        {
+          "id": "ID003",
+          "name": "Linköping"
+        },
+        {
+          "id": "ID004",
+          "name": "Göteborg"
+        }
+        ]
     }
 }
 }
