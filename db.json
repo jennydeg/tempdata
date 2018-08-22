@@ -1,0 +1,26 @@
+{
+	"data": {
+    "filtergroup_contract": {
+      "contracts": [{
+          "id": "ID001",
+          "name": "Almega"
+        },
+        {
+          "id": "ID002",
+          "name": "Omega"
+        },
+        {
+          "id": "ID003",
+          "name": "Avtal 3"
+        },
+        {
+          "id": "ID004",
+          "name": "Avtal 4"
+        }
+      ],
+      "years": {},
+      "employments": {},
+      "location": {}
+
+    }
+}
