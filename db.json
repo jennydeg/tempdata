@@ -61,7 +61,7 @@
         ],
       "location": {}
     },
-    "filtergroup_location": {
+    "filtergroup_complete": {
       "contracts": [{
           "id": "ID001",
           "name": "Almega"
