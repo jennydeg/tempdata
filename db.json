@@ -3,19 +3,36 @@
     "filtergroup_year": {
       "contracts": [{
           "id": "ID001",
-          "name": "Almega"
+          "name": "Kommun"
         },
         {
           "id": "ID002",
-          "name": "Omega"
+          "name": "Almega"
         },
         {
           "id": "ID003",
-          "name": "Avtal 3"
+          "name": "Arbetsgivaralliansen"
         },
         {
           "id": "ID004",
-          "name": "Avtal 4"
+          "name": "KFO"
+        }
+                ,
+        {
+          "id": "ID005",
+          "name": "KFS"
+        },
+        {
+          "id": "ID006",
+          "name": "Kyrkan"
+        },
+        {
+          "id": "ID007",
+          "name": "Landsting"
+        },
+        {
+          "id": "ID008",
+          "name": "Staten"
         }
       ],
        "years": ["2018", "2017", "2016", "2015"],
@@ -40,7 +57,7 @@
           "name": "Avtal 4"
         }
       ],
-       "years": ["2018", "2017", "2016", "2015"],
+       "years": ["2018", "2017", "2016", "2015", "2014"],
       "employments": [
         {
            "id": "ID001",
@@ -87,7 +104,7 @@
         },
         {
           "id": "ID002",
-          "name": "Lärarinna"
+          "name": "Lärare"
         },
         {
           "id": "ID003",
