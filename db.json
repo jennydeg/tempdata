@@ -147,7 +147,8 @@
         },
         {
           "id": "ID003",
-          "name": "Linköping"
+          "name": "Linköping",
+          "disabled": true
         },
         {
           "id": "ID004",
