@@ -115,6 +115,10 @@
       ],
        "years": ["2018", "2017", "2016", "2015", "2014"],
       "employments": [
+         {
+           "id": "ID000",
+          "name": "Samtliga tjänster"
+        },
         {
            "id": "ID001",
           "name": "Förskolelärare"
@@ -133,6 +137,10 @@
         }
         ],
       "locations": [
+         {
+           "id": "ID000",
+          "name": "Hela Sverige"
+        },
         {
            "id": "ID001",
           "name": "Avesta"
